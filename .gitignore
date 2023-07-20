@@ -1,0 +1,7 @@
+# PhpStorm
+.idea/
+*.iml
+*.iws
+
+# Screen folder
+screen/
