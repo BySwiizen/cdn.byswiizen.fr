@@ -1,4 +1,4 @@
 <?php
-  header('Location: https://twitch.tv/byswiiizen');
+  header('Location: https://byswiizen.fr');
   exit();
 ?>
